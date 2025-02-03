@@ -33,6 +33,11 @@ Kimia Farma is the first pharmaceutical industry company in Indonesia which was 
 
 ## Stage 03: Develop analysis tables
 
+table analisis query
+```sql
+
+```
+
 ## Stage 04: Dashboard Visualization
 
 ## Stage 05: Provide actionable recommendations
