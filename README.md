@@ -1,4 +1,4 @@
-# Sales Performance Dashboard
+# Kimia Farma Sales Dashboard
 Tools: <br>
 👩🏻‍💻 Visual Studio Code <br>
 👩🏻‍💻 Big Query <br>
