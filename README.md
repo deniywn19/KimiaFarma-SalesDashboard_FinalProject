@@ -78,7 +78,6 @@ FROM transaction_base
 ORDER BY date;
 ```
 ## Dashboard Visualization
-Visualization Dashboard for this analysis can be accessed at [Kimia Farma Analytics Dashboard](https://lookerstudio.google.com/s/hoEUVKfTWD8). 
 ![](image.png)
 ## Key Findings
 
